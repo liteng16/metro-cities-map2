@@ -4,20 +4,20 @@ An interactive prototype for browsing metro lines and station locations by city.
 
 ## Live URLs
 
-- Home: https://liteng16.github.io/metro-cities-map2/
-- Beijing: https://liteng16.github.io/metro-cities-map2/beijing/
-- Shanghai: https://liteng16.github.io/metro-cities-map2/shanghai/
-- Guangzhou: https://liteng16.github.io/metro-cities-map2/guangzhou/
-- Shenzhen: https://liteng16.github.io/metro-cities-map2/shenzhen/
-- Chengdu: https://liteng16.github.io/metro-cities-map2/chengdu/
-- Hangzhou: https://liteng16.github.io/metro-cities-map2/hangzhou/
-- Nanjing: https://liteng16.github.io/metro-cities-map2/nanjing/
-- Wuhan: https://liteng16.github.io/metro-cities-map2/wuhan/
-- Chongqing: https://liteng16.github.io/metro-cities-map2/chongqing/
-- Xi'an: https://liteng16.github.io/metro-cities-map2/xian/
-- Tianjin: https://liteng16.github.io/metro-cities-map2/tianjin/
-- Shijiazhuang: https://liteng16.github.io/metro-cities-map2/shijiazhuang/
-- Hefei: https://liteng16.github.io/metro-cities-map2/hefei/
+- Home: https://liteng16.github.io/metro-cities-map/
+- Beijing: https://liteng16.github.io/metro-cities-map/beijing/
+- Shanghai: https://liteng16.github.io/metro-cities-map/shanghai/
+- Guangzhou: https://liteng16.github.io/metro-cities-map/guangzhou/
+- Shenzhen: https://liteng16.github.io/metro-cities-map/shenzhen/
+- Chengdu: https://liteng16.github.io/metro-cities-map/chengdu/
+- Hangzhou: https://liteng16.github.io/metro-cities-map/hangzhou/
+- Nanjing: https://liteng16.github.io/metro-cities-map/nanjing/
+- Wuhan: https://liteng16.github.io/metro-cities-map/wuhan/
+- Chongqing: https://liteng16.github.io/metro-cities-map/chongqing/
+- Xi'an: https://liteng16.github.io/metro-cities-map/xian/
+- Tianjin: https://liteng16.github.io/metro-cities-map/tianjin/
+- Shijiazhuang: https://liteng16.github.io/metro-cities-map/shijiazhuang/
+- Hefei: https://liteng16.github.io/metro-cities-map/hefei/
 
 ## Included Cities
 
